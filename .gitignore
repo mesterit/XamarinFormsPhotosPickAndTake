@@ -1,0 +1,39 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.user
+/packages
+/.vs
+/.user
+/Camera App/Camera App/bin/Debug
+/Camera App/Camera App/bin/Release
+/Camera App/Camera App/obj/Debug
+/Camera App/Camera App/obj/Release
+/Camera App/Camera App/bin/*
+/Camera App/Camera App/obj/*
+
+/Camera App/Camera App.Android/bin/Debug
+/Camera App/Camera App.Android/bin/Release
+/Camera App/Camera App.Android/obj/Debug
+/Camera App/Camera App.Android/obj/Release
+/Camera App/Camera App.Android/bin/*
+/Camera App/Camera App.Android/obj/*
+
+/Camera App/Camera App.iOS/bin/Debug
+/Camera App/Camera App.iOS/bin/Release
+/Camera App/Camera App.iOS/obj/Debug
+/Camera App/Camera App.iOS/obj/Release
+/Camera App/Camera App.iOS/bin/*
+/Camera App/Camera App.iOS/obj/*
+
+*.user
+
+bin
+obj
+bin
+obj
+obj
+bin
+obj
+Camera App.Android
